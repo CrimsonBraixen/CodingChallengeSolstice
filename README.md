@@ -1,2 +1,3 @@
-# CodingChallengeSolstice
-Coding Challenge propuesto para posible posición en Solstice.
+# Coding Challenge Solstice
+
+*Coding Challenge solution for software development position at Solstice.*
